@@ -12,7 +12,7 @@ class Demo {
             case 'C':
                 return new C(); 
             case 'I':
-                return new C(); 
+                return new C(); //Interface I duoc thuc hien boi C
             default:
                 return null; 
         }
